@@ -1,1 +1,1 @@
-# Taste-of-India
+# Recipe Search App
